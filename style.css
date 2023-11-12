@@ -40,10 +40,14 @@ form .display{
 form .display input{
     flex: 1;
     text-align: right;
-    font-size: 35px;
-    box-shadow: none;
+    font-size: 25px;
+    box-shadow: rgba(255, 255, 255, 0.1);
+    background-color: darkslategrey;
+    color: azure;
 }
 form input.eq{
     width: 158px;
 }
-
+form input.op{
+    color: cadetblue;
+}
