@@ -1,2 +1,2 @@
 # Calculatorweb
-Calculator web app project with js
+Calculator web app project
