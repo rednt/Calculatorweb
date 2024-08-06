@@ -1,2 +1,2 @@
 # Calculatorweb
-Calculator web app project
+Calculator lol
